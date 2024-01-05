@@ -5,7 +5,7 @@ Enhance your terminal experience with ShellColorScript, a collection of vibrant 
 To install `shell-color-scripts`, you can download the source code directly or clone the repository using git. Here are the steps:
 
 ``` bash
-git clone https://gitlab.com/dwt1/shell-color-scripts.git
+git clone https://github.com/Strikoder/shell-color-scripts
 cd shell-color-scripts
 sudo make install
 ```
