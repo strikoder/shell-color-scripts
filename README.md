@@ -49,4 +49,5 @@ sudo cp script/path /opt/shell-color-scripts/colorscripts
 
 ### Acknowledgments: 
 https://gitlab.com/dwt1/shell-color-scripts (For the makefile, most of the scripts, and support of the free software movement.)
+
 https://github.com/joshdk (for the 'hedgehog' script.)
