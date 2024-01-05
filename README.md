@@ -1,6 +1,7 @@
 # Shell-Color-Script
 Enhance your terminal experience with ShellColorScript, a collection of vibrant shell color scripts sourced from the internet. These scripts add a splash of color to your otherwise monochrome black screen.
 
+You can check my AwesomeWM config if you are interesnted as well (https://github.com/Strikoder/AwesomeWM)
 ![ShellColorScript](https://github.com/Strikoder/shell-color-scripts/blob/main/README.png?raw=true)
 
 # Installing shell-color-scripts 
