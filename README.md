@@ -1,6 +1,8 @@
 # Shell-Color-Script
 Enhance your terminal experience with ShellColorScript, a collection of vibrant shell color scripts sourced from the internet. These scripts add a splash of color to your otherwise monochrome black screen.
 
+![ShellColorScript](https://github.com/Strikoder/shell-color-scripts/blob/main/README.png?raw=true)
+
 # Installing shell-color-scripts 
 To install `shell-color-scripts`, you can download the source code directly or clone the repository using git. Here are the steps:
 
