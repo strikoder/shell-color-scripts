@@ -35,6 +35,15 @@ sudo make uninstall
 ``` 
 colorscript random
 ```
+## To add your file, simply add the script to the next path:
+
+/opt/shell-color-scripts/colorscripts
+
+or you can use the next command:
+
+```
+sudo cp script/path /opt/shell-color-scripts/colorscripts
+```
 
 ### Acknowledgments: 
 https://gitlab.com/dwt1/shell-color-scripts (For the makefile, most of the scripts, and support of the free software movement.)
