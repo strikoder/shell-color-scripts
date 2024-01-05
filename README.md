@@ -1,4 +1,4 @@
-# ShellColorScript
+# Shell-Color-Script
 Enhance your terminal experience with ShellColorScript, a collection of vibrant shell color scripts sourced from the internet. These scripts add a splash of color to your otherwise monochrome black screen.
 
 # Installing shell-color-scripts 
