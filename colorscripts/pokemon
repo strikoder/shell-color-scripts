@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Fetch and display Pokémon terminal art
+curl -s -L "https://raw.githubusercontent.com/shinya/pokemon-terminal-art/main/hello.sh" | bash
